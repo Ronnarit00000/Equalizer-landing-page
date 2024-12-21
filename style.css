@@ -478,7 +478,8 @@ select {
                                 32rem       [image-1-end image-2-end]
                                 7.5rem      [description-end];
 
-        margin-block:  5rem;
+        margin-block-start: 9rem;
+        margin-block-end:   5rem;
         margin-inline: 2.5rem;
     }
     
@@ -618,7 +619,8 @@ select {
 
         width: min(100% - 2.5rem * 2, 70rem);
         margin-inline: auto;
-        margin-block: 5rem;
+        margin-block-start: 9rem;
+        margin-block-end:   5rem;
     }
 
     .content-Image-1 {
