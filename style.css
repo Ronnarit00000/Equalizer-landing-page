@@ -474,7 +474,7 @@ select {
                                     minmax(0.5rem, 1fr)         [image-2-end];
 
         grid-template-rows:
-            [image-1-start]   13.625rem
+            [image-1-start]       14rem
             [image-2-start]     5.75rem      [description-start]
                                31.75rem      [image-1-end image-2-end]
                                  7.5rem      [description-end];
@@ -613,7 +613,7 @@ select {
                                     minmax(0, 4rem)         [image-2-end];
 
         grid-template-rows:
-            [image-1-start]   13.625rem
+            [image-1-start]       14rem
             [image-2-start]     5.75rem      [description-start]
                                31.75rem      [image-1-end image-2-end]
                                  7.5rem      [description-end];
