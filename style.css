@@ -200,6 +200,7 @@ select {
 
 .content {
     display: grid;
+    color: var(--clr-white);
 }
 
 .content-Image-1 img {
